@@ -1,0 +1,7 @@
+div{
+    display: flex;
+    border: 1px solid black;
+}
+.tarjetasMenu{
+    border:1px solid blue
+};
